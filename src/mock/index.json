@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "articles": [
+            {
+                "id": 1,
+                "view": "titulo-top",
+                "content": {
+                    "id": 1,
+                    "title": "titulo",
+                    "subTitle": "esto es una baja",
+                    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eum suscipit ipsa? Vel, ipsum repellat quasi pariatur ipsam sequi aspernatur omnis commodi, dolor molestiae alias quidem nisi error vitae. Dolorem!",
+                    "image": "https://picsum.photos/300/300"
+                }
+            },
+            {
+                "id": 2,
+                "view": "titulo-bottom",
+                "content": {
+                    "id": 5,
+                    "title": "titulo",
+                    "subTitle": "esto es una bajada",
+                    "text": "esot es otra Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eum suscipit ipsa? Vel, ipsum repellat quasi pariatur ipsam sequi aspernatur omnis commodi, dolor molestiae alias quidem nisi error vitae. Dolorem!",
+                    "image": "https://picsum.photos/300/300"
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "articles": [
+            {
+                "id": 3,
+                "view": "titulo-top",
+                "content": {
+                    "id": 3,
+                    "title": "titulo",
+                    "subTitle": "esto es una baja",
+                    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eum suscipit ipsa? Vel, ipsum repellat quasi pariatur ipsam sequi aspernatur omnis commodi, dolor molestiae alias quidem nisi error vitae. Dolorem!",
+                    "image": "https://picsum.photos/300/300"
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "articles": [
+            {
+                "id": 4,
+                "view": "titulo-top",
+                "content": {
+                    "id": 2,
+                    "title": "titulo",
+                    "subTitle": "esto es una baja",
+                    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eum suscipit ipsa? Vel, ipsum repellat quasi pariatur ipsam sequi aspernatur omnis commodi, dolor molestiae alias quidem nisi error vitae. Dolorem!",
+                    "image": "https://picsum.photos/300/300"
+                }
+            },
+            {
+                "id": 4,
+                "view": "titulo-foto",
+                "content": {
+                    "id": 2,
+                    "title": "titulo",
+                    "subTitle": "esto es una baja",
+                    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eum suscipit ipsa? Vel, ipsum repellat quasi pariatur ipsam sequi aspernatur omnis commodi, dolor molestiae alias quidem nisi error vitae. Dolorem!",
+                    "image": "https://picsum.photos/300/300"
+                }
+            }
+        ]
+    }
+]
